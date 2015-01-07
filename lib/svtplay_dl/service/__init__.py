@@ -113,6 +113,7 @@ from svtplay_dl.service.picsearch import Picsearch
 from svtplay_dl.service.qbrick import Qbrick
 from svtplay_dl.service.radioplay import Radioplay
 from svtplay_dl.service.ruv import Ruv
+from svtplay_dl.service.rte import RTE
 from svtplay_dl.service.sr import Sr
 from svtplay_dl.service.svtplay import Svtplay
 from svtplay_dl.service.tv4play import Tv4play
@@ -140,6 +141,7 @@ sites = [
     Qbrick,
     Picsearch,
     Ruv,
+    RTE,
     Radioplay,
     Sr,
     Svtplay,
